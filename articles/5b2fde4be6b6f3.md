@@ -2,7 +2,7 @@
 title: "microCMS + TailwindCSSでのHTMLコンテンツに対するスタイル適用"
 emoji: "🖼️"
 type: "tech"
-topics: ["nextjs", "tailwindccss"]
+topics: ["nextjs", "tailwindcss"]
 published: true
 ---
 以前[Crea7](https://crea7dos3tos.com)というタイムラインとブログ機能を持ったサイトを作成した時に、Next.js + microCMS + Tailwind CSSで実装を行いました。
